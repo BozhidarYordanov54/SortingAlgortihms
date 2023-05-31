@@ -1,0 +1,15 @@
+D:\Free lance exercises\SortingAlgortihms\SortingAlgortihms\bin\Debug\net6.0\Algorithms_NBU.exe
+D:\Free lance exercises\SortingAlgortihms\SortingAlgortihms\bin\Debug\net6.0\Algorithms_NBU.deps.json
+D:\Free lance exercises\SortingAlgortihms\SortingAlgortihms\bin\Debug\net6.0\Algorithms_NBU.runtimeconfig.json
+D:\Free lance exercises\SortingAlgortihms\SortingAlgortihms\bin\Debug\net6.0\Algorithms_NBU.dll
+D:\Free lance exercises\SortingAlgortihms\SortingAlgortihms\bin\Debug\net6.0\Algorithms_NBU.pdb
+D:\Free lance exercises\SortingAlgortihms\SortingAlgortihms\obj\Debug\net6.0\Algorithms_NBU.csproj.AssemblyReference.cache
+D:\Free lance exercises\SortingAlgortihms\SortingAlgortihms\obj\Debug\net6.0\Algorithms_NBU.GeneratedMSBuildEditorConfig.editorconfig
+D:\Free lance exercises\SortingAlgortihms\SortingAlgortihms\obj\Debug\net6.0\Algorithms_NBU.AssemblyInfoInputs.cache
+D:\Free lance exercises\SortingAlgortihms\SortingAlgortihms\obj\Debug\net6.0\Algorithms_NBU.AssemblyInfo.cs
+D:\Free lance exercises\SortingAlgortihms\SortingAlgortihms\obj\Debug\net6.0\Algorithms_NBU.csproj.CoreCompileInputs.cache
+D:\Free lance exercises\SortingAlgortihms\SortingAlgortihms\obj\Debug\net6.0\Algorithms_NBU.dll
+D:\Free lance exercises\SortingAlgortihms\SortingAlgortihms\obj\Debug\net6.0\refint\Algorithms_NBU.dll
+D:\Free lance exercises\SortingAlgortihms\SortingAlgortihms\obj\Debug\net6.0\Algorithms_NBU.pdb
+D:\Free lance exercises\SortingAlgortihms\SortingAlgortihms\obj\Debug\net6.0\Algorithms_NBU.genruntimeconfig.cache
+D:\Free lance exercises\SortingAlgortihms\SortingAlgortihms\obj\Debug\net6.0\ref\Algorithms_NBU.dll
