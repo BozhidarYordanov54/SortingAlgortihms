@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Free lance exercises\\SortingAlgortihms\\SortingAlgortihms\\Algorithms_NBU.csproj",
+      "projectUniqueName": "D:\\Free lance exercises\\Algorithms_NBU\\SortingAlgortihms\\Algorithms_NBU.csproj",
       "projectName": "Algorithms_NBU",
-      "projectPath": "D:\\Free lance exercises\\SortingAlgortihms\\SortingAlgortihms\\Algorithms_NBU.csproj",
+      "projectPath": "D:\\Free lance exercises\\Algorithms_NBU\\SortingAlgortihms\\Algorithms_NBU.csproj",
       "packagesPath": "C:\\Users\\UserPC\\.nuget\\packages\\",
-      "outputPath": "D:\\Free lance exercises\\SortingAlgortihms\\SortingAlgortihms\\obj\\",
+      "outputPath": "D:\\Free lance exercises\\Algorithms_NBU\\SortingAlgortihms\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
